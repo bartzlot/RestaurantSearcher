@@ -43,7 +43,15 @@ def restaurant_generator(num_records: int):
 
             names.add(name)
             cuisine = random.choice(cuisine_types)
-            restaurants.append({"name": name, "cuisine_type": cuisine})
+            restaurants.append({
+                "name": name,
+                "opinion": 0.0,
+                "verified": False,
+                "cuisine_type": cuisine,
+                "coordinates": None,
+                "coordinates_to_verify": None,
+                "coordinates_verified": False
+            })
 
     with open(os.path.join(output_dir, 'restaurants_table.json'), 'w') as file:
         json.dump(restaurants, file, indent=4)

@@ -1,402 +1,902 @@
 [
     {
-        "name": "Refined Barbecue",
-        "cuisine_type": "Sri Lankan"
-    },
-    {
-        "name": "Tender Gelato",
-        "cuisine_type": "Vegan"
-    },
-    {
-        "name": "Velvety Taco",
-        "cuisine_type": "Coffee Shop"
-    },
-    {
-        "name": "Tender Bistrobar",
-        "cuisine_type": "Armenian"
-    },
-    {
-        "name": "Quirky Flatbread",
-        "cuisine_type": "Mexican-American"
-    },
-    {
-        "name": "Grand Tortilla",
-        "cuisine_type": "Icelandic"
-    },
-    {
-        "name": "Savory Taco",
-        "cuisine_type": "Austrian"
-    },
-    {
-        "name": "Shiny Wonton",
-        "cuisine_type": "Ice Cream Parlor"
-    },
-    {
-        "name": "Artisan Dimsum",
-        "cuisine_type": "Italian"
-    },
-    {
-        "name": "Fluffy Brunch",
-        "cuisine_type": "Gelateria"
-    },
-    {
-        "name": "Black Yakitori",
-        "cuisine_type": "Creole"
-    },
-    {
-        "name": "Fresh Fish",
-        "cuisine_type": "Serbian"
-    },
-    {
-        "name": "Spicy Sausage",
-        "cuisine_type": "Afghan"
-    },
-    {
-        "name": "Brisk Bistrogrill",
-        "cuisine_type": "Vietnamese"
-    },
-    {
-        "name": "Blissful Salad",
-        "cuisine_type": "Smoothie Bar"
-    },
-    {
-        "name": "Sweet Tortilla",
-        "cuisine_type": "Southern"
-    },
-    {
-        "name": "Fancy Udon",
-        "cuisine_type": "Coffee Shop"
-    },
-    {
-        "name": "Chilly Snackbar",
-        "cuisine_type": "African"
-    },
-    {
-        "name": "Savvy Burger",
-        "cuisine_type": "Armenian"
-    },
-    {
-        "name": "Tasty Kebab",
-        "cuisine_type": "Comfort Food"
-    },
-    {
-        "name": "Black Icecream",
-        "cuisine_type": "Kazakh"
-    },
-    {
-        "name": "Majestic Donut",
-        "cuisine_type": "Kazakh"
-    },
-    {
-        "name": "Quaint Cocktail",
-        "cuisine_type": "Tex-Mex"
-    },
-    {
-        "name": "Soft Streetfood",
-        "cuisine_type": "Nepalese"
-    },
-    {
-        "name": "Daring Buffet",
-        "cuisine_type": "Farm-to-Table"
-    },
-    {
-        "name": "Red Noodle",
-        "cuisine_type": "Patisserie"
-    },
-    {
-        "name": "Vivid Salad",
-        "cuisine_type": "Indian"
-    },
-    {
-        "name": "Unique Sandwich",
-        "cuisine_type": "Slovak"
-    },
-    {
-        "name": "Wild Streetfood",
-        "cuisine_type": "Norwegian"
-    },
-    {
-        "name": "Coastal Pizza",
-        "cuisine_type": "Sri Lankan"
-    },
-    {
-        "name": "Regal Doughnut",
-        "cuisine_type": "Tex-Mex"
-    },
-    {
-        "name": "Grand Diner",
-        "cuisine_type": "Turkish"
-    },
-    {
-        "name": "Smooth Sausage",
-        "cuisine_type": "Belgian"
-    },
-    {
-        "name": "Snappy Katsuobushi",
-        "cuisine_type": "Peruvian"
-    },
-    {
-        "name": "Soft Bar",
-        "cuisine_type": "Finnish"
-    },
-    {
-        "name": "Crunchy Cocktail",
-        "cuisine_type": "Japanese"
-    },
-    {
-        "name": "Red Doughnut",
-        "cuisine_type": "Italian"
-    },
-    {
-        "name": "Classic Smoothie",
-        "cuisine_type": "Fast Food"
-    },
-    {
-        "name": "Humble Pizzeria",
-        "cuisine_type": "Spanish"
-    },
-    {
-        "name": "Daring Hotdog",
-        "cuisine_type": "Juice Bar"
-    },
-    {
-        "name": "Refined Kiosk",
-        "cuisine_type": "Vegan"
-    },
-    {
-        "name": "Earthy Bakery",
-        "cuisine_type": "Bosnian"
-    },
-    {
-        "name": "Fresh Toast",
-        "cuisine_type": "Juice Bar"
-    },
-    {
-        "name": "Cheerful Sushi",
-        "cuisine_type": "Icelandic"
-    },
-    {
-        "name": "Delightful Hotdog",
-        "cuisine_type": "Bistro"
-    },
-    {
-        "name": "Airy Tempura",
-        "cuisine_type": "Creole"
-    },
-    {
-        "name": "Breezy Sashimi",
-        "cuisine_type": "Danish"
-    },
-    {
-        "name": "Crunchy Dimsum",
-        "cuisine_type": "Mexican"
-    },
-    {
-        "name": "Green Teahouse",
-        "cuisine_type": "Thai"
-    },
-    {
-        "name": "Majestic Ramen",
-        "cuisine_type": "Canadian"
-    },
-    {
-        "name": "Bright Sashimi",
-        "cuisine_type": "Bistro"
-    },
-    {
-        "name": "Hearty Waffle",
-        "cuisine_type": "Russian"
-    },
-    {
-        "name": "Bold Pho",
-        "cuisine_type": "Danish"
-    },
-    {
-        "name": "Cool Gelato",
-        "cuisine_type": "Tibetan"
-    },
-    {
-        "name": "Dreamy Diner",
-        "cuisine_type": "American"
-    },
-    {
-        "name": "Heavenly Vegetarian",
-        "cuisine_type": "Cajun"
-    },
-    {
-        "name": "Shiny Waffle",
-        "cuisine_type": "Paleo"
-    },
-    {
-        "name": "Cheerful Brasserie",
-        "cuisine_type": "Tibetan"
-    },
-    {
-        "name": "Blue Sweets",
-        "cuisine_type": "Finnish"
-    },
-    {
-        "name": "Velvety Donut",
-        "cuisine_type": "Creole"
-    },
-    {
-        "name": "Airy Baklava",
-        "cuisine_type": "Norwegian"
-    },
-    {
-        "name": "Coastal Salad",
-        "cuisine_type": "Finnish"
-    },
-    {
-        "name": "Dreamy Sushi",
-        "cuisine_type": "Indonesian"
-    },
-    {
-        "name": "Humble Taco",
-        "cuisine_type": "Sri Lankan"
-    },
-    {
-        "name": "Blue Tsukemen",
-        "cuisine_type": "Moroccan"
-    },
-    {
-        "name": "Zesty Muffin",
-        "cuisine_type": "Caribbean"
-    },
-    {
-        "name": "Vivid Gelato",
-        "cuisine_type": "Filipino"
-    },
-    {
-        "name": "Tender Bar",
-        "cuisine_type": "Brasserie"
-    },
-    {
-        "name": "Hearty Kiosk",
-        "cuisine_type": "Brasserie"
-    },
-    {
-        "name": "Elegant Hotdog",
-        "cuisine_type": "Cajun"
-    },
-    {
-        "name": "Blue Chef",
-        "cuisine_type": "Bulgarian"
-    },
-    {
-        "name": "Playful Charcoal",
-        "cuisine_type": "Australian"
-    },
-    {
-        "name": "Green Tavern",
-        "cuisine_type": "New Zealand"
-    },
-    {
-        "name": "Dreamy Grillhouse",
-        "cuisine_type": "Bagel Shop"
-    },
-    {
-        "name": "Wild Toast",
-        "cuisine_type": "Raw"
-    },
-    {
-        "name": "Fresh Gyoza",
-        "cuisine_type": "Finnish"
-    },
-    {
-        "name": "Warm Skewers",
-        "cuisine_type": "Thai"
-    },
-    {
-        "name": "Chilly Pub",
-        "cuisine_type": "Gluten-Free"
-    },
-    {
-        "name": "Daring Cafe",
-        "cuisine_type": "Soul Food"
-    },
-    {
-        "name": "Charming Meze",
-        "cuisine_type": "American"
-    },
-    {
-        "name": "Shiny Icecream",
-        "cuisine_type": "Fusion"
-    },
-    {
-        "name": "Savory Cafe",
-        "cuisine_type": "Malaysian"
-    },
-    {
-        "name": "Warm Yakitori",
-        "cuisine_type": "Croatian"
-    },
-    {
-        "name": "Brisk Katsu",
-        "cuisine_type": "Croatian"
-    },
-    {
-        "name": "Earthy Pub",
-        "cuisine_type": "Seafood"
-    },
-    {
-        "name": "Savory Waffle",
-        "cuisine_type": "Mexican-American"
-    },
-    {
-        "name": "Magic Cocktail",
-        "cuisine_type": "American"
-    },
-    {
-        "name": "Earthy Steakhouse",
-        "cuisine_type": "Australian"
-    },
-    {
-        "name": "Elegant Icecream",
-        "cuisine_type": "Farm-to-Table"
-    },
-    {
-        "name": "Happy Salad",
-        "cuisine_type": "Mediterranean"
-    },
-    {
-        "name": "Silver Bistro",
-        "cuisine_type": "Swiss"
-    },
-    {
-        "name": "Chilly Kiosk",
-        "cuisine_type": "Mexican-American"
-    },
-    {
-        "name": "Wild Tavern",
-        "cuisine_type": "Mediterranean"
-    },
-    {
-        "name": "Lively Burrito",
-        "cuisine_type": "Sri Lankan"
+        "name": "Crunchy Sushi",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Uzbek",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Green Udon",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Keto",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Zesty Icecream",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Italian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Graceful Pie",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Uzbek",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Soft Skewers",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Slovenian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Splendid Katsu",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Norwegian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Snappy Icecream",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Healthy",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Vintage Barbecue",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Healthy",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Fancy Kebab",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Swedish",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Airy Gyoza",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Icelandic",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Classic Wonton",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bosnian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Breezy Barbecue",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Street Food",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Vivid Juice",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Icelandic",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Refined Seafood",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bosnian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Gentle Wings",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Polish",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Bold Donut",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Portuguese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Crunchy Falafel",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Norwegian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Green Kebab",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Thai",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Exotic Diner",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Chocolatier",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Crisp Wings",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Gelateria",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Glowing Gyros",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Dutch",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Magic Shrimp",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Swedish",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Natural Toast",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Keto",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Playful Farmhouse",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Organic",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Red Charcoal",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Farm-to-Table",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Royal Waffle",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Hawaiian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Bright Pasta",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bakery",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Airy Deli",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Argentinian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Happy Taproom",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Mediterranean",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Hot Barbecue",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Smoothie Bar",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Warm Doughnut",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "German",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Wild Vegetarian",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Keto",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Hearty Taproom",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Dutch",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Airy Cocktail",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Sri Lankan",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Regal Juice",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Middle Eastern",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "White Taproom",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bakery",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Delightful Deli",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Nepalese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Red Soup",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Vegan",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Playful Sausage",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Vietnamese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Zesty Bistrogrill",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Indian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Playful Falafel",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Polish",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Sunny Doughnut",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Tea House",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Gentle Tsukemen",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bosnian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Classic Flatbread",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Chinese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Zesty Taco",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Pakistani",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Royal Doughnut",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Sri Lankan",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Exotic Gelato",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Spanish",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Perky Kiosk",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Uzbek",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Fresh Waffle",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "German",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Delightful Burger",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Smoothie Bar",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Spirited BBQpit",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Japanese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Dark Falafel",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Moroccan",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Black Wraps",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Sri Lankan",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Lush Brunch",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Patisserie",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Dark Buffet",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "American",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Crisp Pie",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Argentinian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Sharp Charcoal",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Deli",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Quirky Vegetarian",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Vegetarian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Gentle Doughnut",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bangladeshi",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Playful Meze",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Brazilian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Gentle Juice",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Pakistani",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Golden Gyoza",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bistro",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Brisk Teahouse",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Mexican-American",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Charming Shawarma",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Vegan",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Tangy Hotdog",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bangladeshi",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Spirited Skewers",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bosnian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Bold Bistro",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Portuguese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Glowing Bistro",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Keto",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Simple Grillhouse",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Ethiopian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Tangy Sandwich",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Deli",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Grand Falafel",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Finnish",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Creamy Tsukemen",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Lebanese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Airy Breakfast",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Creole",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Sweet Snackbar",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Keto",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Velvety Meze",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Mexican",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Sparkling Juice",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bangladeshi",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Shiny Grill",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Finnish",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Hot Tempura",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bistro",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Splendid Kebab",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Tex-Mex",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Golden Chef",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Malaysian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Red Spice",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Soul Food",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Sparkling Brasserie",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Bakery",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Vivid Bakery",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Gluten-Free",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Cheerful Grill",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Brasserie",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Classic Dimsum",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Australian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Black Smoothie",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Japanese",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Modern Buffet",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Keto",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Sharp Flatbread",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Norwegian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Daring Espresso",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Caribbean",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Spirited Tempura",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "African",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Pure Muffin",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Pakistani",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Black Panini",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Mexican",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Wild Juice",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Southern",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Regal Bakery",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Indonesian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Vintage Canteen",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Chocolatier",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Earthy Dimsum",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Romanian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
+    },
+    {
+        "name": "Smooth Bistrobar",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Azerbaijani",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
     },
     {
         "name": "Inviting Cake",
-        "cuisine_type": "Raw"
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Juice Bar",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
     },
     {
-        "name": "Gentle Falafel",
-        "cuisine_type": "Moroccan"
+        "name": "Lush Falafel",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Ethiopian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
     },
     {
-        "name": "Hot Icecream",
-        "cuisine_type": "Indonesian"
-    },
-    {
-        "name": "Airy Falafel",
-        "cuisine_type": "Caribbean"
-    },
-    {
-        "name": "Playful Wonton",
-        "cuisine_type": "Bangladeshi"
-    },
-    {
-        "name": "Creamy Seafood",
-        "cuisine_type": "Afghan"
+        "name": "Royal BBQ",
+        "opinion": 0.0,
+        "verified": false,
+        "cuisine_type": "Hungarian",
+        "coordinates": null,
+        "coordinates_to_verify": null,
+        "coordinates_verified": false
     }
 ]
