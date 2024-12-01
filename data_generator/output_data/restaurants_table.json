@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Refined Barbecue",
+        "cuisine_type": "Sri Lankan"
+    },
+    {
+        "name": "Tender Gelato",
+        "cuisine_type": "Vegan"
+    },
+    {
+        "name": "Velvety Taco",
+        "cuisine_type": "Coffee Shop"
+    },
+    {
+        "name": "Tender Bistrobar",
+        "cuisine_type": "Armenian"
+    },
+    {
+        "name": "Quirky Flatbread",
+        "cuisine_type": "Mexican-American"
+    },
+    {
+        "name": "Grand Tortilla",
+        "cuisine_type": "Icelandic"
+    },
+    {
+        "name": "Savory Taco",
+        "cuisine_type": "Austrian"
+    },
+    {
+        "name": "Shiny Wonton",
+        "cuisine_type": "Ice Cream Parlor"
+    },
+    {
+        "name": "Artisan Dimsum",
+        "cuisine_type": "Italian"
+    },
+    {
+        "name": "Fluffy Brunch",
+        "cuisine_type": "Gelateria"
+    },
+    {
+        "name": "Black Yakitori",
+        "cuisine_type": "Creole"
+    },
+    {
+        "name": "Fresh Fish",
+        "cuisine_type": "Serbian"
+    },
+    {
+        "name": "Spicy Sausage",
+        "cuisine_type": "Afghan"
+    },
+    {
+        "name": "Brisk Bistrogrill",
+        "cuisine_type": "Vietnamese"
+    },
+    {
+        "name": "Blissful Salad",
+        "cuisine_type": "Smoothie Bar"
+    },
+    {
+        "name": "Sweet Tortilla",
+        "cuisine_type": "Southern"
+    },
+    {
+        "name": "Fancy Udon",
+        "cuisine_type": "Coffee Shop"
+    },
+    {
+        "name": "Chilly Snackbar",
+        "cuisine_type": "African"
+    },
+    {
+        "name": "Savvy Burger",
+        "cuisine_type": "Armenian"
+    },
+    {
+        "name": "Tasty Kebab",
+        "cuisine_type": "Comfort Food"
+    },
+    {
+        "name": "Black Icecream",
+        "cuisine_type": "Kazakh"
+    },
+    {
+        "name": "Majestic Donut",
+        "cuisine_type": "Kazakh"
+    },
+    {
+        "name": "Quaint Cocktail",
+        "cuisine_type": "Tex-Mex"
+    },
+    {
+        "name": "Soft Streetfood",
+        "cuisine_type": "Nepalese"
+    },
+    {
+        "name": "Daring Buffet",
+        "cuisine_type": "Farm-to-Table"
+    },
+    {
+        "name": "Red Noodle",
+        "cuisine_type": "Patisserie"
+    },
+    {
+        "name": "Vivid Salad",
+        "cuisine_type": "Indian"
+    },
+    {
+        "name": "Unique Sandwich",
+        "cuisine_type": "Slovak"
+    },
+    {
+        "name": "Wild Streetfood",
+        "cuisine_type": "Norwegian"
+    },
+    {
+        "name": "Coastal Pizza",
+        "cuisine_type": "Sri Lankan"
+    },
+    {
+        "name": "Regal Doughnut",
+        "cuisine_type": "Tex-Mex"
+    },
+    {
+        "name": "Grand Diner",
+        "cuisine_type": "Turkish"
+    },
+    {
+        "name": "Smooth Sausage",
+        "cuisine_type": "Belgian"
+    },
+    {
+        "name": "Snappy Katsuobushi",
+        "cuisine_type": "Peruvian"
+    },
+    {
+        "name": "Soft Bar",
+        "cuisine_type": "Finnish"
+    },
+    {
+        "name": "Crunchy Cocktail",
+        "cuisine_type": "Japanese"
+    },
+    {
+        "name": "Red Doughnut",
+        "cuisine_type": "Italian"
+    },
+    {
+        "name": "Classic Smoothie",
+        "cuisine_type": "Fast Food"
+    },
+    {
+        "name": "Humble Pizzeria",
+        "cuisine_type": "Spanish"
+    },
+    {
+        "name": "Daring Hotdog",
+        "cuisine_type": "Juice Bar"
+    },
+    {
+        "name": "Refined Kiosk",
+        "cuisine_type": "Vegan"
+    },
+    {
+        "name": "Earthy Bakery",
+        "cuisine_type": "Bosnian"
+    },
+    {
+        "name": "Fresh Toast",
+        "cuisine_type": "Juice Bar"
+    },
+    {
+        "name": "Cheerful Sushi",
+        "cuisine_type": "Icelandic"
+    },
+    {
+        "name": "Delightful Hotdog",
+        "cuisine_type": "Bistro"
+    },
+    {
+        "name": "Airy Tempura",
+        "cuisine_type": "Creole"
+    },
+    {
+        "name": "Breezy Sashimi",
+        "cuisine_type": "Danish"
+    },
+    {
+        "name": "Crunchy Dimsum",
+        "cuisine_type": "Mexican"
+    },
+    {
+        "name": "Green Teahouse",
+        "cuisine_type": "Thai"
+    },
+    {
+        "name": "Majestic Ramen",
+        "cuisine_type": "Canadian"
+    },
+    {
+        "name": "Bright Sashimi",
+        "cuisine_type": "Bistro"
+    },
+    {
+        "name": "Hearty Waffle",
+        "cuisine_type": "Russian"
+    },
+    {
+        "name": "Bold Pho",
+        "cuisine_type": "Danish"
+    },
+    {
+        "name": "Cool Gelato",
+        "cuisine_type": "Tibetan"
+    },
+    {
+        "name": "Dreamy Diner",
+        "cuisine_type": "American"
+    },
+    {
+        "name": "Heavenly Vegetarian",
+        "cuisine_type": "Cajun"
+    },
+    {
+        "name": "Shiny Waffle",
+        "cuisine_type": "Paleo"
+    },
+    {
+        "name": "Cheerful Brasserie",
+        "cuisine_type": "Tibetan"
+    },
+    {
+        "name": "Blue Sweets",
+        "cuisine_type": "Finnish"
+    },
+    {
+        "name": "Velvety Donut",
+        "cuisine_type": "Creole"
+    },
+    {
+        "name": "Airy Baklava",
+        "cuisine_type": "Norwegian"
+    },
+    {
+        "name": "Coastal Salad",
+        "cuisine_type": "Finnish"
+    },
+    {
+        "name": "Dreamy Sushi",
+        "cuisine_type": "Indonesian"
+    },
+    {
+        "name": "Humble Taco",
+        "cuisine_type": "Sri Lankan"
+    },
+    {
+        "name": "Blue Tsukemen",
+        "cuisine_type": "Moroccan"
+    },
+    {
+        "name": "Zesty Muffin",
+        "cuisine_type": "Caribbean"
+    },
+    {
+        "name": "Vivid Gelato",
+        "cuisine_type": "Filipino"
+    },
+    {
+        "name": "Tender Bar",
+        "cuisine_type": "Brasserie"
+    },
+    {
+        "name": "Hearty Kiosk",
+        "cuisine_type": "Brasserie"
+    },
+    {
+        "name": "Elegant Hotdog",
+        "cuisine_type": "Cajun"
+    },
+    {
+        "name": "Blue Chef",
+        "cuisine_type": "Bulgarian"
+    },
+    {
+        "name": "Playful Charcoal",
+        "cuisine_type": "Australian"
+    },
+    {
+        "name": "Green Tavern",
+        "cuisine_type": "New Zealand"
+    },
+    {
+        "name": "Dreamy Grillhouse",
+        "cuisine_type": "Bagel Shop"
+    },
+    {
+        "name": "Wild Toast",
+        "cuisine_type": "Raw"
+    },
+    {
+        "name": "Fresh Gyoza",
+        "cuisine_type": "Finnish"
+    },
+    {
+        "name": "Warm Skewers",
+        "cuisine_type": "Thai"
+    },
+    {
+        "name": "Chilly Pub",
+        "cuisine_type": "Gluten-Free"
+    },
+    {
+        "name": "Daring Cafe",
+        "cuisine_type": "Soul Food"
+    },
+    {
+        "name": "Charming Meze",
+        "cuisine_type": "American"
+    },
+    {
+        "name": "Shiny Icecream",
+        "cuisine_type": "Fusion"
+    },
+    {
+        "name": "Savory Cafe",
+        "cuisine_type": "Malaysian"
+    },
+    {
+        "name": "Warm Yakitori",
+        "cuisine_type": "Croatian"
+    },
+    {
+        "name": "Brisk Katsu",
+        "cuisine_type": "Croatian"
+    },
+    {
+        "name": "Earthy Pub",
+        "cuisine_type": "Seafood"
+    },
+    {
+        "name": "Savory Waffle",
+        "cuisine_type": "Mexican-American"
+    },
+    {
+        "name": "Magic Cocktail",
+        "cuisine_type": "American"
+    },
+    {
+        "name": "Earthy Steakhouse",
+        "cuisine_type": "Australian"
+    },
+    {
+        "name": "Elegant Icecream",
+        "cuisine_type": "Farm-to-Table"
+    },
+    {
+        "name": "Happy Salad",
+        "cuisine_type": "Mediterranean"
+    },
+    {
+        "name": "Silver Bistro",
+        "cuisine_type": "Swiss"
+    },
+    {
+        "name": "Chilly Kiosk",
+        "cuisine_type": "Mexican-American"
+    },
+    {
+        "name": "Wild Tavern",
+        "cuisine_type": "Mediterranean"
+    },
+    {
+        "name": "Lively Burrito",
+        "cuisine_type": "Sri Lankan"
+    },
+    {
+        "name": "Inviting Cake",
+        "cuisine_type": "Raw"
+    },
+    {
+        "name": "Gentle Falafel",
+        "cuisine_type": "Moroccan"
+    },
+    {
+        "name": "Hot Icecream",
+        "cuisine_type": "Indonesian"
+    },
+    {
+        "name": "Airy Falafel",
+        "cuisine_type": "Caribbean"
+    },
+    {
+        "name": "Playful Wonton",
+        "cuisine_type": "Bangladeshi"
+    },
+    {
+        "name": "Creamy Seafood",
+        "cuisine_type": "Afghan"
+    }
+]
